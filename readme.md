@@ -1,0 +1,1 @@
+GUI tool for signing android application and checking it for bad words
